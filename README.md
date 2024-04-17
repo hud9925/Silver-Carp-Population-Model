@@ -43,10 +43,10 @@ Interested in contributing to the Silver Carp Population Model? Please send a pu
 
 ## Acknowledgments
 
-- Government of Canada for providing open access to crucial environmental data.
+- Government of Canada for providing open access to water quality data.
 
 ## Contact
 
-For any additional questions or feedback, please contact [dan.hu@mail.utoronto.ca] or open an issue in this repository.
+For any questions and/or feedback, send me an email here: [dan.hu@mail.utoronto.ca] 
 
 
