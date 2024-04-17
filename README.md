@@ -3,12 +3,10 @@
 ## Overview
 This project simulates the potential establishment and growth of the invasive Silver Carp (*Hypophthalmichthys molitrix*) populations across the Great Lakes. Using a stage-structured model, the simulation predicts how the carp population might grow under different environmental conditions over a 20-year period.
 
-## Features
-
-- **Simulation Coverage**: Population simulations for Lake Superior, Lake Ontario, Lake Huron, Georgian Bay, and Lake Erie.
-- **Comprehensive Modeling**: Utilizes data on water temperature and dissolved oxygen levels to predict carp survivability and fecundity rates.
-- **Interactive Notebooks**: Step-by-step Jupyter notebooks (`final_simulation.ipynb`) demonstrate the simulation process and visualize the outcomes.
-- **Data Driven**: Employs real-world data obtained from governmental sources to ensure the accuracy and relevancy of the simulation inputs.
+## This project covers...
+- Population simulations for Lake Superior, Lake Ontario, Lake Huron, Georgian Bay, and Lake Erie.
+- Data on water temperature and dissolved oxygen levels to predict carp survivability and fecundity rates.
+- Step-by-step Jupyter notebooks (`final_simulation.ipynb`) to demonstrate the simulation process and visualize the outcomes.
 
 ## Libraries and Modules Used
 - **numpy**: For numerical/array operations.
