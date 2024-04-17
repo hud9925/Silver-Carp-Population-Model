@@ -1,7 +1,7 @@
 # Silver Carp Population Model
 
 ## Overview
-This project simulates the potential establishment and growth of the invasive Silver Carp (*Hypophthalmichthys molitrix*) populations across various Great Lakes. Using a stage-structured model, the simulation predicts how the carp population might grow under different environmental conditions over a 20-year period.
+This project simulates the potential establishment and growth of the invasive Silver Carp (*Hypophthalmichthys molitrix*) populations across the Great Lakes. Using a stage-structured model, the simulation predicts how the carp population might grow under different environmental conditions over a 20-year period.
 
 ## Features
 
